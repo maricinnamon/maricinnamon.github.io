@@ -31,6 +31,7 @@
 - **Graduate Work, 2022:** "Development and research of the intelligent technology for determining the attractiveness of animals from the shelter" (Python: fastai, Flask; MySQL; HTML/CSS/JS)
 - **Term Paper, 2021:** Intelligent face recognition technology in the video stream (Python: tensorflow, dlib). 
     - Mention: 🔗 [http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/](http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/)
+<br/>
 
 ### 📍 Bachelor's degree in Computer Science (Artificial Intelligence Systems), Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2016-2020).
 - **GPA:** 97.54 (out of 0-100)
