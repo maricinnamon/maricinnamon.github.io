@@ -65,7 +65,7 @@
 - **GPA:** 97.916 (out of 0-100)
 - **Activities:** Headgirl of our university group
 - **Diploma with honors**
-- **Graduate Work, 2022:** "Development and research of the intelligent technology for determining the attractiveness of animals from the shelter" (Python: fastai, Flask; MySQL; HTML/CSS/JS)
+- **Graduate Work, 2022:** "Development and research of the intelligent technology for determining the attractiveness of animals from the shelter" (Python: fastai, Flask; MySQL; HTML/CSS/JS).
 - **Term Paper, 2021:** Intelligent face recognition technology in the video stream (Python: tensorflow, dlib). 
     - Mention: 🔗 [http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/](http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/)
 <br/>
@@ -76,12 +76,12 @@
 - **GPA:** 97.54 (out of 0-100)
 - **Diploma with honors**
 - **Graduate Work, 2020:** "Intelligent application for the agricultural plants’ diseases identification based on deep learning" (Python: PyTorch, Flask; MySQL; HTML/CSS/JS).
-    - Conference on this topic: 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) (pp. 184-185)
+    - Conference on this topic: 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) (pp. 184-185).
 - **Term Paper, 2019:** "Comparative analysis of evolutionary modeling methods. The method of deformed stars for optimizing a function. Four-dimensional and five-dimensional case" (Python).
      - Conference on this topic: 🔗 [https://ieeexplore.ieee.org/document/9030453](https://ieeexplore.ieee.org/document/9030453)<br/>
      - Conference on this topic: 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) (pp. 203-205)<br/>
-- **Term Paper, 2018:** "Logistics system with transportation optimization based on the application of a genetic algorithm" (C++)
-- **Term Paper, 2018:** "Hotel administrator information system" (MS Access, SQL)
+- **Term Paper, 2018:** "Logistics system with transportation optimization based on the application of a genetic algorithm" (C++).
+- **Term Paper, 2018:** "Hotel administrator information system" (MS Access, SQL).
 <br/>
 
 <hr>
@@ -102,7 +102,7 @@
 - **Programming:** Python (OpenCV, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn,  etc). Worked with Tableau, SQL, C++, C#.
 - **PC instruments:** MS Office, Adobe Photoshop;
 - **Social media management:** Instagram, YouTube, Telegram;
-- **Foreign languages:** English: B2, Certificate: English for Professional Purposes, issued by Taras Shevchenko National University of Kyiv (June 2020)
+- **Foreign languages:** English: B2, Certificate: English for Professional Purposes, issued by Taras Shevchenko National University of Kyiv (June 2020).
 
 ### 📍 Certificates
 - Full list of certificates you can find [here](./certificates.html).
