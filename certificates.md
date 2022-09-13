@@ -1,5 +1,5 @@
 # 📃 My Certificates
-### [⬅️ back to the main page](./README.html)
+### [⬅️ back to the main page](./)
 
 * [Intro to Machine Learning](https://www.kaggle.com/learn/certification/maricinnamon/intro-to-machine-learning) - Kaggle, April, 2022
 * [Data Visualization](https://www.kaggle.com/learn/certification/maricinnamon/data-visualization) - Kaggle, March, 2022
@@ -22,4 +22,4 @@
 * [HTML Fundamentals course](https://www.sololearn.com/Certificate/1014-8657918/pdf/) - Sololearn, September, 2018
 * [SQL Fundamentals course](https://www.sololearn.com/Certificate/1060-8657918/pdf/) - Sololearn, May, 2018
 
-### [⬅️ back to the main page](./README.html)
+### [⬅️ back to the main page](./)
