@@ -7,7 +7,7 @@
 
 
 # 🔗 My Links
-<table rules="all">
+<table rules="all" align="center">
 <tbody>
 
   <tr>
