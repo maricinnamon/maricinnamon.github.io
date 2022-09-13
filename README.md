@@ -103,6 +103,9 @@
 - **Social media management:** Instagram, YouTube, Telegram;
 - **Foreign languages:** English: B2, Certificate: English for Professional Purposes, issued by Taras Shevchenko National University of Kyiv (June 2020)
 
+### 📍 Certificates
+- Full list of certificates you can find [here](./certificates.html).
+
 ### 📍 Social activities
 - Headgirl of our university group (Autumn 2020 - May 2022).
 - Gratitude paper for active participation in the student movement Campus Ukraine (February 2020).
