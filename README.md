@@ -7,7 +7,7 @@
 
 
 # 🔗 My Links
-<table rules="all" align="center">
+<table rules="all" style="text-align:center">
 <tbody>
 
   <tr>
@@ -102,7 +102,7 @@
 - Full list of certificates you can find [here](./certificates.html).
 
 ### 📍 Publications & Conferences
-- Full list of publications you can find [here](./publiocations.html).
+- Full list of publications you can find [here](./publications.html).
 
 ### 📍 Social activities
 - Headgirl of our university group (Autumn 2020 - May 2022).
