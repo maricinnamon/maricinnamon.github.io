@@ -3,6 +3,7 @@
 <br/>
 
 # My Links
+<!--- 
 |   |   |   |   |
 |---|---|---|---|
 | [👤 CV / Curriculum Vitae / Resume](https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)  |  [👤 LinkedIn](https://www.linkedin.com/in/maryna-antonevych/)  |  [👤 Kaggle Page](https://www.kaggle.com/maricinnamon) | [👤 GitHub](https://github.com/maricinnamon)  |
@@ -10,7 +11,8 @@
 | [❤️ YouTube Channel "Learn AI"](https://www.youtube.com/channel/UCEJ8IRbmEl3tEZahc17pwrw)  | [❤️ "Learn AI" Instagram](https://www.instagram.com/learn.ai.python/)  | [❤️ "Learn AI" GitHub](https://github.com/learn-ai-python)  |   |
 |   |   |   |   |
 | [📄 Google Scholar](https://scholar.google.com/citations?user=1FYbaYwAAAAJ&hl=uk)|[📄 Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216150467) |[📄 OrcID](https://orcid.org/0000-0003-3640-7630) | [📄 dblp](https://dblp.org/pid/309/3242.html)   |
-|   |   |   |   |
+|   |   |   |   | 
+--->
 
 <br/>
 
@@ -28,18 +30,18 @@
 - **Diploma with honors**
 - **Graduate Work, 2022:** "Development and research of the intelligent technology for determining the attractiveness of animals from the shelter" (Python: fastai, Flask; MySQL; HTML/CSS/JS)
 - **Term Paper, 2021:** Intelligent face recognition technology in the video stream (Python: tensorflow, dlib). 
-    - Mention: 🔗 (http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/)[http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/]
+    - Mention: 🔗 [http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/](http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/)
 
 ### 📍 Bachelor's degree in Computer Science (Artificial Intelligence Systems), Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2016-2020).
 - **GPA:** 97.54 (out of 0-100)
 - **Diploma with honors**
 
 - **Graduate Work, 2020:** "Intelligent application for the agricultural plants’ diseases identification based on deep learning" (Python: PyTorch, Flask; MySQL; HTML/CSS/JS).
-    - Conference on this topic: 🔗 (http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf)[http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf] (pp. 184-185)
+    - Conference on this topic: 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) (pp. 184-185)
 
 - **Term Paper, 2019:** "Comparative analysis of evolutionary modeling methods. The method of deformed stars for optimizing a function. Four-dimensional and five-dimensional case" (Python).
-     - Conference on this topic: 🔗 (https://ieeexplore.ieee.org/document/9030453)[https://ieeexplore.ieee.org/document/9030453] <br/>
-     - Conference on this topic: 🔗 (http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf)[http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf] (pp. 203-205)<br/>
+     - Conference on this topic: 🔗 [https://ieeexplore.ieee.org/document/9030453](https://ieeexplore.ieee.org/document/9030453) <br/>
+     - Conference on this topic: 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) (pp. 203-205)<br/>
 
 - **Term Paper, 2018:** "Logistics system with transportation optimization based on the application of a genetic algorithm" (C++)
 - **Term Paper, 2018:** "Hotel administrator information system" (MS Access, SQL)
