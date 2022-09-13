@@ -40,7 +40,7 @@
     - Conference on this topic: 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) (pp. 184-185)
 
 - **Term Paper, 2019:** "Comparative analysis of evolutionary modeling methods. The method of deformed stars for optimizing a function. Four-dimensional and five-dimensional case" (Python).
-     - Conference on this topic: 🔗 [https://ieeexplore.ieee.org/document/9030453](https://ieeexplore.ieee.org/document/9030453) <br/>
+     - Conference on this topic: 🔗 [https://ieeexplore.ieee.org/document/9030453](https://ieeexplore.ieee.org/document/9030453)<br/>
      - Conference on this topic: 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) (pp. 203-205)<br/>
 
 - **Term Paper, 2018:** "Logistics system with transportation optimization based on the application of a genetic algorithm" (C++)
