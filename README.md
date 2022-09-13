@@ -19,22 +19,22 @@
 <table>
 <tbody>
   <tr>
-    <td>[👤 CV / Curriculum Vitae / Resume](https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)</td>
-    <td>[👤 LinkedIn](https://www.linkedin.com/in/maryna-antonevych/)</td>
-    <td>[👤 Kaggle Page](https://www.kaggle.com/maricinnamon)</td>
-    <td>[👤 GitHub](https://github.com/maricinnamon) </td>
+    <td><a href="https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">👤 CV / Curriculum Vitae / Resume</a></td>
+    <td><a href="https://www.linkedin.com/in/maryna-antonevych/">👤 LinkedIn</a></td>
+    <td><a href="https://www.kaggle.com/maricinnamon">👤 Kaggle Page</a></td>
+    <td><a href="https://github.com/maricinnamon">👤 GitHub</a></td>
   </tr>
   <tr>
-    <td>[❤️ YouTube Channel "Learn AI"](https://www.youtube.com/channel/UCEJ8IRbmEl3tEZahc17pwrw)</td>
-    <td>❤️ "Learn AI" Instagram](https://www.instagram.com/learn.ai.python/)</td>
-    <td>[❤️ "Learn AI" GitHub](https://github.com/learn-ai-python)</td>
+    <td><a href="https://www.youtube.com/channel/UCEJ8IRbmEl3tEZahc17pwrw">❤️ YouTube Channel "Learn AI"</a></td>
+    <td><a href="https://www.instagram.com/learn.ai.python/">❤️ "Learn AI" Instagram</a></td>
+    <td><a href="https://github.com/learn-ai-python">❤️ "Learn AI" GitHub</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>[📄 Google Scholar](https://scholar.google.com/citations?user=1FYbaYwAAAAJ&hl=uk)</td>
-    <td>[📄 Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216150467)</td>
-    <td>[📄 OrcID](https://orcid.org/0000-0003-3640-7630)</td>
-    <td>[📄 dblp](https://dblp.org/pid/309/3242.html)</td>
+    <td><a href="https://scholar.google.com/citations?user=1FYbaYwAAAAJ&hl=uk">📄 Google Scholar</a></td>
+    <td><a href="https://www.scopus.com/authid/detail.uri?authorId=57216150467">📄 Scopus</a></td>
+    <td><a href="https://orcid.org/0000-0003-3640-7630">📄 OrcID</a></td>
+    <td><a href="https://dblp.org/pid/309/3242.html">📄 dblp</a></td>
   </tr>
 </tbody>
 </table>
