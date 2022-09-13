@@ -68,11 +68,10 @@
 - **Graduate Work, 2022:** "Development and research of the intelligent technology for determining the attractiveness of animals from the shelter" (Python: fastai, Flask; MySQL; HTML/CSS/JS).
 - **Term Paper, 2021:** Intelligent face recognition technology in the video stream (Python: tensorflow, dlib). 
     - Mention: 🔗 [http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/](http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/)
-<br/>
-
 
 
 ### 📍 Bachelor's degree in Computer Science (Artificial Intelligence Systems), Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2016-2020).
+
 - **GPA:** 97.54 (out of 0-100)
 - **Diploma with honors**
 - **Graduate Work, 2020:** "Intelligent application for the agricultural plants’ diseases identification based on deep learning" (Python: PyTorch, Flask; MySQL; HTML/CSS/JS).
@@ -82,21 +81,19 @@
      - Conference on this topic: 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) (pp. 203-205)<br/>
 - **Term Paper, 2018:** "Logistics system with transportation optimization based on the application of a genetic algorithm" (C++).
 - **Term Paper, 2018:** "Hotel administrator information system" (MS Access, SQL).
-<br/>
 
-### 📍 Physics and Mathematics Lyceum of Cherkasy, Cherkasy, Ukraine (2011-2016).
-<details><summary>Show more</summary>
+
+### 📍 Physics and Mathematics Lyceum of Cherkasy, Ukraine (2011-2016).
 - **GPA:** 11.5 (out of 0-12)
 - **Participant in Minor Academy of Sciences of Ukraine, 2015. Paper:** "The lucky tickets of the second rank"
     - Mention of my participation: 🔗 [http://math.cdu.edu.ua/wp-content/uploads/2018/01/Доповідь-8-Бабенко.pptx](http://math.cdu.edu.ua/wp-content/uploads/2018/01/Доповідь-8-Бабенко.pptx)
     - Mention of my participation: 🔗 [http://ckmatem.ucoz.ua/peremozhci_i_turu_iii_etapu-2015.docx](http://ckmatem.ucoz.ua/peremozhci_i_turu_iii_etapu-2015.docx)
-</details>
 
-### 📍 Cherkasy Gymnasium № 31, Cherkasy, Ukraine (2005-2011).
-<details><summary>Show more</summary>
+
+### 📍 Cherkasy Gymnasium № 31, Ukraine (2005-2011).
 - Participant in Math City Olympiads
 - Participant in Elementary School Olympiads
-</details>
+
 <hr>
 
 # 👩‍💻 Scientific interests
