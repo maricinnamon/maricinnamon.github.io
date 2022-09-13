@@ -19,6 +19,12 @@
 <table>
 <tbody>
   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">👤 CV / Curriculum Vitae / Resume</a></td>
     <td><a href="https://www.linkedin.com/in/maryna-antonevych/">👤 LinkedIn</a></td>
     <td><a href="https://www.kaggle.com/maricinnamon">👤 Kaggle Page</a></td>
