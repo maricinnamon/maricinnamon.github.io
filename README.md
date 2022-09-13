@@ -101,6 +101,9 @@
 ### 📍 Certificates
 - Full list of certificates you can find [here](./certificates.html).
 
+### 📍 Publications & Conferences
+- Full list of publications you can find [here](./publiocations.html).
+
 ### 📍 Social activities
 - Headgirl of our university group (Autumn 2020 - May 2022).
 - Gratitude paper for active participation in the student movement Campus Ukraine (February 2020).
