@@ -84,6 +84,19 @@
 - **Term Paper, 2018:** "Hotel administrator information system" (MS Access, SQL).
 <br/>
 
+### 📍 Physics and Mathematics Lyceum of Cherkasy, Cherkasy, Ukraine (2011-2016).
+<details><summary>Show more</summary>
+- **GPA:** 11.5 (out of 0-12)
+- **Participant in Minor Academy of Sciences of Ukraine, 2015. Paper:** "The lucky tickets of the second rank"
+    - Mention of my participation: 🔗 [http://math.cdu.edu.ua/wp-content/uploads/2018/01/Доповідь-8-Бабенко.pptx](http://math.cdu.edu.ua/wp-content/uploads/2018/01/Доповідь-8-Бабенко.pptx)
+    - Mention of my participation: 🔗 [http://ckmatem.ucoz.ua/peremozhci_i_turu_iii_etapu-2015.docx](http://ckmatem.ucoz.ua/peremozhci_i_turu_iii_etapu-2015.docx)
+</details>
+
+### 📍 Cherkasy Gymnasium № 31, Cherkasy, Ukraine (2005-2011).
+<details><summary>Show more</summary>
+- Participant in Math City Olympiads
+- Participant in Elementary School Olympiads
+</details>
 <hr>
 
 # 👩‍💻 Scientific interests
