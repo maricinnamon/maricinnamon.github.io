@@ -1,4 +1,6 @@
 # 📄 My Publications
+### [⬅️ back to the main page](./)
+
 * 📍 Vitaliy Snytyuk, Maryna Antonevych, Anna Didyk, Nataliia Tmienova. The Method of Deformed Stars as a Population Algorithm for Global Optimization. // System Analysis & Intelligent Computing, 1st ed. 2022. // **Indexed in Scopus** 
     * 🔗 [https://link.springer.com/chapter/10.1007/978-3-030-94910-5_13](https://link.springer.com/chapter/10.1007/978-3-030-94910-5_13)
  
@@ -34,3 +36,5 @@
     
 * 📍 Antonevych M.M., Kudin V.I., Onishchenko A.M. Matrix pseudobasic algorithms // V International scientific-practical conference "Information technologies and interactions" IT&I 2018. - pp. 16-17.
     * 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2018.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2018.pdf)
+
+### [⬅️ back to the main page](./)
