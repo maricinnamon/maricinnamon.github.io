@@ -1,4 +1,4 @@
-# 📄 My Publications
+# 📄 MY PUBLICATIONS
 ### [⬅️ back to the main page](./)
 
 📍 Vitaliy Snytyuk, Maryna Antonevych, Anna Didyk, Nataliia Tmienova. The Method of Deformed Stars as a Population Algorithm for Global Optimization. // System Analysis & Intelligent Computing, 1st ed. 2022. // **Indexed in Scopus**.<br/>
