@@ -123,7 +123,7 @@
 <hr>
 <br/>
 
-# 👩‍💻 Scientific interests
+# 👩‍💻 SCIENTIFIC INTERESTS
 - artificial intelligence; 
 - data science; 
 - machine learning; 
@@ -135,7 +135,7 @@
 <br/>
 
 
-# 💾 Other information
+# 💾 OTHER INFORMATION
 #### 📍 Skills & Proficiencies
 - **Programming:** Python (OpenCV, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn,  etc). Worked with Tableau, SQL, C++, C#.
 - **PC instruments:** MS Office, Adobe Photoshop;
