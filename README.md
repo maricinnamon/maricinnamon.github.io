@@ -75,7 +75,7 @@
     </li>
   </ul>
 </details>
-
+<br/>
 
 #### 📍 Bachelor's degree in Computer Science (Artificial Intelligence Systems), Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2016-2020).
 <details><summary>SHOW MORE</summary>
@@ -97,7 +97,7 @@
     <li><b>Term Paper, 2018:</b> "Hotel administrator information system" (MS Access, SQL).</li>
   </ul>
 </details>
-
+<br/>
 
 #### 📍 Physics and Mathematics Lyceum of Cherkasy, Ukraine (2011-2016).
 <details><summary>SHOW MORE</summary>
@@ -110,7 +110,7 @@
     </ul></li>
 </ul>
 </details>    
-
+<br/>
 
 #### 📍 Cherkasy Gymnasium № 31, Ukraine (2005-2011).
 <details><summary>SHOW MORE</summary>
