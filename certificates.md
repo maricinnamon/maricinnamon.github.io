@@ -1,4 +1,4 @@
-# 📃 My Certificates
+# 📃 MY CERTIFICATES
 ### [⬅️ back to the main page](./)
 
 * [Intro to Machine Learning](https://www.kaggle.com/learn/certification/maricinnamon/intro-to-machine-learning) - Kaggle, April, 2022
