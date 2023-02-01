@@ -28,10 +28,10 @@
   </tr>
   
   <tr>
-    <td><a target="_blank" href="https://www.tiktok.com/@learn.ai.python?lang=uk-UA">❤️ "Learn AI" TikTok</a></td>
-    <td><a target="_blank" href="https://www.instagram.com/learn.ai.python/">❤️ "Learn AI" Instagram</a></td>
+    <td><a target="_blank" href="https://www.tiktok.com/@learn.ai.python?lang=uk-UA">❤️ "Learn AI Python" TikTok (UA) </a></td>
+    <td><a target="_blank" href="https://www.instagram.com/learn.ai.python/">❤️ "Learn AI Python " Instagram (UA) </a></td>
     <td><a target="_blank" href="https://github.com/learn-ai-python">❤️ "Learn AI" GitHub</a></td>
-    <td><a target="_blank" href="https://www.youtube.com/channel/UCEJ8IRbmEl3tEZahc17pwrw">❤️ YouTube Channel "Learn AI"</a></td>
+    <td><a target="_blank" href=""></a></td>
   </tr>
   
   <tr>
