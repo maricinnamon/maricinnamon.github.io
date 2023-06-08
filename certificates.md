@@ -1,6 +1,7 @@
 # 📃 MY CERTIFICATES
 ### [⬅️ back to the main page](./)
 
+* [Practical Deep Learning with PyTorch](https://datarootlabs.com/university/verify/534638d35eca) - DataRoot Labs, May, 2023
 * [Intro to Machine Learning](https://www.kaggle.com/learn/certification/maricinnamon/intro-to-machine-learning) - Kaggle, April, 2022
 * [Data Visualization](https://www.kaggle.com/learn/certification/maricinnamon/data-visualization) - Kaggle, March, 2022
 * [Geospatial Analysis](https://www.kaggle.com/learn/certification/maricinnamon/geospatial-analysis) - Kaggle, February, 2022
