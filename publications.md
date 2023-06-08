@@ -33,7 +33,7 @@
 🔗 [https://ists.knu.ua/index.php/bisit/article/view/63/33](https://ists.knu.ua/index.php/bisit/article/view/63/33)
 <br/>
     
-📍 Антоневич М.М., Снитюк В. Є., Оптимізація функцій двох змінних методом чотирикутних деформованих зірок.  // VI International scientific-practical conference "Information technologies and interactions" IT&I 2019. - pp. 183-184.<br/>
+📍 Антоневич М.М., Снитюк В. Є., Optimization of functions of two variables by the method of four-pointed deformed stars.  // VI International scientific-practical conference "Information technologies and interactions" IT&I 2019. - pp. 183-184.<br/>
 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf)
 <br/>
     
