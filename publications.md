@@ -1,14 +1,17 @@
 # 📄 MY PUBLICATIONS
 ### [⬅️ back to the main page](./)
-<br/>
+
 📚 The Method of Deformed Stars as a Population Algorithm for Global Optimization. <br/>
 Vitaliy Snytyuk, Maryna Antonevych, Anna Didyk, Nataliia Tmienova. <br/>
 System Analysis & Intelligent Computing, 1st ed. 2022. <br/>
-**Indexed in Scopus**. <br/>
+<b>Indexed in Scopus</b>. <br/>
 🔗 https://link.springer.com/chapter/10.1007/978-3-030-94910-5_13
 <br/><br/>
  
-📍 Maryna Antonevych, Vitaliy Snytyuk and Natalia Tmienova. The Method of Fractal Structuring as on Evolutionary Method of Global Optimization // Information Technology and Implementation, 2021. // **Indexed in Scopus**.<br/>
+📚 The Method of Fractal Structuring as on Evolutionary Method of Global Optimization <br/> 
+Maryna Antonevych, Vitaliy Snytyuk and Natalia Tmienova. <br/>
+Information Technology and Implementation, 2021. <br/>
+<b>Indexed in Scopus</b>.<br/>
 🔗 http://ceur-ws.org/Vol-3179/Paper_7.pdf
 <br/>
     
@@ -51,5 +54,5 @@ System Analysis & Intelligent Computing, 1st ed. 2022. <br/>
 📍 Antonevych M.M., Kudin V.I., Onishchenko A.M. Matrix pseudobasic algorithms // V International scientific-practical conference "Information technologies and interactions" IT&I 2018. - pp. 16-17.<br/>
 🔗 http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2018.pdf
 <br/>
-<br/>
+
 ### [⬅️ back to the main page](./)
