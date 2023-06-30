@@ -1,6 +1,7 @@
 # 📃 MY CERTIFICATES
 ### [⬅️ back to the main page](./)
 
+* [Getting started with ChatGPT](https://certs.prometheus.org.ua/downloads/3d0e51c7812849d9b4cbdacaa514b68d/Certificate.pdf) - Prometheus, June, 2023
 * [Practical Deep Learning with PyTorch](https://datarootlabs.com/university/verify/534638d35eca) - DataRoot Labs, May, 2023
 * [Intro to Machine Learning](https://www.kaggle.com/learn/certification/maricinnamon/intro-to-machine-learning) - Kaggle, April, 2022
 * [Data Visualization](https://www.kaggle.com/learn/certification/maricinnamon/data-visualization) - Kaggle, March, 2022
