@@ -1,5 +1,5 @@
 # 📃 MY CERTIFICATES
-### [⬅️ back to the main page](./)
+### [⬅️ back to the main page](./)  
 
 * [Getting started with ChatGPT](https://certs.prometheus.org.ua/downloads/3d0e51c7812849d9b4cbdacaa514b68d/Certificate.pdf) - Prometheus, June, 2023
 * [Practical Deep Learning with PyTorch](https://datarootlabs.com/university/verify/534638d35eca) - DataRoot Labs, May, 2023
