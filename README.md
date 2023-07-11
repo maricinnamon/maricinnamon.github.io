@@ -1,5 +1,3 @@
-<p align="right"> 🇺🇦 Other languages: Ukrainian </p>
-
 # 👋 Hi, I'm Maryna Antonevych
 👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science | 🎖 Kaggle tier: Notebooks Expert
 <br/>
