@@ -19,7 +19,7 @@
   </tr>
   
   <tr>
-    <td><a target="_blank" href="https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">👤 CV / Curriculum Vitae / Resume</a></td>
+    <td><a target="_blank" href="https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">👤 One-page CV</a></td>
     <td><a target="_blank" href="https://www.linkedin.com/in/maryna-antonevych/">👤 LinkedIn</a></td>
     <td><a target="_blank" href="https://www.kaggle.com/maricinnamon">👤 Kaggle Page</a></td>
     <td><a target="_blank" href="https://github.com/maricinnamon">👤 GitHub</a></td>
