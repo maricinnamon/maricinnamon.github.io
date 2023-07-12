@@ -19,10 +19,20 @@
   </tr>
   
   <tr>
-    <td><a target="_blank" href="https://www.tiktok.com/@learn.ai.python?lang=uk-UA">🎥 "Learn AI Python" TikTok </a></td>
-    <td><a target="_blank" href="https://www.instagram.com/learn.ai.python/">🎥 "Learn AI Python" Instagram </a></td>
-    <td><a target="_blank" href="https://github.com/learn-ai-python">🎥 "Learn AI" GitHub</a></td>
+      <td colspan=4"> 
+      </td>
+  </tr>
+  
+  <tr>
+    <td><a target="_blank" href="https://www.tiktok.com/@learn.ai.python?lang=uk-UA">🎥 TikTok "Learn AI Python"</a></td>
+    <td><a target="_blank" href="https://www.instagram.com/learn.ai.python/">🎥 Instagram "Learn AI Python"</a></td>
+    <td><a target="_blank" href="https://github.com/learn-ai-python">🎥 GitHub "Learn AI"</a></td>
     <td><a target="_blank" href=""></a></td>
+  </tr>
+  
+  <tr>
+      <td colspan=4"> 
+      </td>
   </tr>
   
   <tr>
@@ -50,14 +60,28 @@
 #### 📍 Master's Degree in Computer Science (Artificial Intelligence Technologies), Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2020-2022).
 <details><summary>SHOW MORE</summary>
   <ul>
-    <li><b>GPA:</b> 97.916 (out of 0-100)</li>
-    <li><b>Activities:</b> Headgirl of our university group</li>
-    <li><b>Diploma with honors</b></li>
-    <li><b>Graduate Work, 2022:</b> "Development and research of the intelligent technology for determining the attractiveness of animals from the shelter" (Python: fastai, Flask; MySQL; HTML/CSS/JS).</li>
-    <li><b>Term Paper, 2021:</b> Intelligent face recognition technology in the video stream (Python: tensorflow, dlib). 
+    <li>
+      <b>GPA:</b> 97.916 (out of 0-100)
+    </li>
+    <li>
+      <b>Activities:</b> Headgirl of our university group
+    </li>
+    <li>
+      <b>Diploma with honors</b>
+    </li>
+    <li>
+      <b>Graduate Work, 2022:</b> "Development and research of the intelligent technology for determining the attractiveness of animals from the shelter" (Python: fastai, Flask; MySQL; HTML/CSS/JS).
+    </li>
+    <li>
+      <b>Term Paper, 2021:</b> Intelligent face recognition technology in the video stream (Python: tensorflow, dlib). 
       <ul>
-      <li>Mention: 🔗 <a target="_blank" href="http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/">http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/</a></li>
+        <li>
+          Mention: 🔗 <a target="_blank" href="http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/">http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/</a>
+        </li>
       </ul>
+    </li>
+    <li>
+      <b>Full list of publications</b> you can find <a target="_blank" href="https://maricinnamon.github.io/publications.html">here</a>
     </li>
   </ul>
 </details>
@@ -66,21 +90,38 @@
 #### 📍 Bachelor's degree in Computer Science (Artificial Intelligence Systems), Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2016-2020).
 <details><summary>SHOW MORE</summary>
   <ul>
-    <li><b>GPA:</b> 97.54 (out of 0-100)</li>
-    <li><b>Diploma with honors</b></li>
-    <li><b>Graduate Work, 2020:</b> "Intelligent application for the agricultural plants’ diseases identification based on deep learning" (Python: PyTorch, Flask; MySQL; HTML/CSS/JS).</li>
+    <li>
+      <b>GPA:</b> 97.54 (out of 0-100)
+    </li>
+    <li>
+      <b>Diploma with honors</b>
+    </li>
+    <li>
+      <b>Graduate Work, 2020:</b> "Intelligent application for the agricultural plants’ diseases identification based on deep learning" (Python: PyTorch, Flask; MySQL; HTML/CSS/JS).
+    </li>
       <ul>
           <li>
           Conference on this topic: 🔗 <a target="_blank" href="http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf">http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf</a> (pp. 184-185).
           </li>
       </ul>
-    <li><b>Term Paper, 2019:</b> "Comparative analysis of evolutionary modeling methods. The method of deformed stars for optimizing a function. Four-dimensional and five-dimensional case" (Python).</li>
+    <li>
+      <b>Term Paper, 2019:</b> "Comparative analysis of evolutionary modeling methods. The method of deformed stars for optimizing a function. Four-dimensional and five-dimensional case" (Python).
+    </li>
       <ul>
-           <li>Conference on this topic: 🔗 <a target="_blank" href="https://ieeexplore.ieee.org/document/9030453">https://ieeexplore.ieee.org/document/9030453</a></li>
-           <li>Conference on this topic: 🔗 <a target="_blank" href="http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf">http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf</a> (pp. 203-205)</li>
+           <li>Conference on this topic: 🔗 <a target="_blank" href="https://ieeexplore.ieee.org/document/9030453">https://ieeexplore.ieee.org/document/9030453</a>
+           </li>
+           <li>
+             Conference on this topic: 🔗 <a target="_blank" href="http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf">http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf</a> (pp. 203-205)
+           </li>
       </ul>
-    <li><b>Term Paper, 2018:</b> "Logistics system with transportation optimization based on the application of a genetic algorithm" (C++).</li>
-    <li><b>Term Paper, 2018:</b> "Hotel administrator information system" (MS Access, SQL).</li>
+    <li>
+      <b>Term Paper, 2018:</b> "Logistics system with transportation optimization based on the application of a genetic algorithm" (C++).      </li>
+    <li>
+      <b>Term Paper, 2018:</b> "Hotel administrator information system" (MS Access, SQL).
+    </li>
+    <li>
+      <b>Full list of publications</b> you can find <a target="_blank" href="https://maricinnamon.github.io/publications.html">here</a>
+    </li> 
   </ul>
 </details>
 <br/>
@@ -88,12 +129,20 @@
 #### 📍 Physics and Mathematics Lyceum of Cherkasy, Ukraine (2011-2016).
 <details><summary>SHOW MORE</summary>
 <ul>
-<li><b>GPA:</b> 11.5 (out of 0-12)</li>
-<li><b>Participant in Minor Academy of Sciences of Ukraine, 2015. Paper:</b> "The lucky tickets of the second rank"
-     <ul>
-    <li>Mention of my participation: 🔗 <a target="_blank" href="http://math.cdu.edu.ua/wp-content/uploads/2018/01/Доповідь-8-Бабенко.pptx">http://math.cdu.edu.ua/wp-content/uploads/2018/01/Доповідь-8-Бабенко.pptx</a></li>
-    <li>Mention of my participation: 🔗 <a target="_blank" href="http://ckmatem.ucoz.ua/peremozhci_i_turu_iii_etapu-2015.docx">http://ckmatem.ucoz.ua/peremozhci_i_turu_iii_etapu-2015.docx</a></li>
-    </ul></li>
+  <li>
+    <b>GPA:</b> 11.5 (out of 0-12)
+  </li>
+  <li>
+    <b>Participant in Minor Academy of Sciences of Ukraine, 2015. Paper:</b> "The lucky tickets of the second rank"
+       <ul>
+        <li>
+          Mention of my participation: 🔗 <a target="_blank" href="http://math.cdu.edu.ua/wp-content/uploads/2018/01/Доповідь-8-Бабенко.pptx">http://math.cdu.edu.ua/wp-content/uploads/2018/01/Доповідь-8-Бабенко.pptx</a>
+        </li>
+        <li>
+          Mention of my participation: 🔗 <a target="_blank" href="http://ckmatem.ucoz.ua/peremozhci_i_turu_iii_etapu-2015.docx">http://ckmatem.ucoz.ua/peremozhci_i_turu_iii_etapu-2015.docx</a>
+        </li>
+      </ul>
+  </li>
 </ul>
 </details>    
 <br/>
@@ -101,8 +150,12 @@
 #### 📍 Cherkasy Gymnasium № 31, Ukraine (2005-2011).
 <details><summary>SHOW MORE</summary>
   <ul>
-    <li>Participant in Math City Olympiads</li>
-    <li>Participant in Elementary School Olympiads</li>
+    <li>
+      Participant in Math City Olympiads
+    </li>
+    <li>
+      Participant in Elementary School Olympiads
+    </li>
   </ul>
 </details>  
 <br/>
