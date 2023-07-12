@@ -19,7 +19,7 @@
   </tr>
   
   <tr>
-      <td colspan=4"> 
+      <td colspan=4"> &nbsp;
       </td>
   </tr>
   
@@ -31,7 +31,7 @@
   </tr>
   
   <tr>
-      <td colspan=4"> 
+      <td colspan=4"> &nbsp;
       </td>
   </tr>
   
