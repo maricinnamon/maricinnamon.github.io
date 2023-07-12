@@ -19,20 +19,10 @@
   </tr>
   
   <tr>
-      <td colspan=4">  
-      </td>
-  </tr>
-  
-  <tr>
     <td><a target="_blank" href="https://www.tiktok.com/@learn.ai.python?lang=uk-UA">🎥 TikTok "Learn AI Python"</a></td>
     <td><a target="_blank" href="https://www.instagram.com/learn.ai.python/">🎥 Instagram "Learn AI Python"</a></td>
     <td><a target="_blank" href="https://github.com/learn-ai-python">🎥 GitHub "Learn AI"</a></td>
     <td><a target="_blank" href=""></a></td>
-  </tr>
-  
-  <tr>
-      <td colspan=4">  
-      </td>
   </tr>
   
   <tr>
