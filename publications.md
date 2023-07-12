@@ -25,7 +25,7 @@ Advanced Information Technology. - No1(1), 2021. - pp. 24-28. <br/>
     
 🟩 <b>Models and Evolutionary Methods for Objects and Systems Clustering</b><br/>
 <i>Maryna Antonevych, Nataliia Tmienova and Vitaliy Snytyuk. <br/>
-II International Scientific Symposium «Intelligent Solutions» (IntSol-2021). -  28–30 September 2021, Kyiv-Uzhhorod, Ukraine. - pp.37-47 <br/>
+II International Scientific Symposium «Intelligent Solutions» (IntSol-2021). -  28–30 September 2021, Kyiv-Uzhhorod, Ukraine. - pp.37-47. <br/>
 <b>Indexed in Scopus. </b><br/>
 🔗 [http://ceur-ws.org/Vol-3018/Paper_4.pdf](http://ceur-ws.org/Vol-3018/Paper_4.pdf) </i><br/><br/>
     
@@ -46,7 +46,7 @@ Security of Information Systems and Technologies. - No. 1 (2), 2020. - pp. 60-67
 🔗 [https://ists.knu.ua/index.php/bisit/article/view/63/33](https://ists.knu.ua/index.php/bisit/article/view/63/33) </i><br/><br/>
     
 🟩 <b>Optimization of functions of two variables by the method of four-pointed deformed stars</b><br/>
-<i>Antonevych M. M., Snytyuk V.E. <br/>
+<i>Antonevych M.M., Snytyuk V.E. <br/>
 VI International scientific-practical conference "Information technologies and interactions" IT&I 2019. - 20 December 2019, Kyiv, Ukraine. - pp. 183-184. <br/>
 🔗 [http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf](http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf) </i><br/><br/>
     
