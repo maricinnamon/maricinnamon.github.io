@@ -1,6 +1,8 @@
 # 📃 MY CERTIFICATES
 ### [⬅️ back to the main page](./)  
 
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/C8MYQ766JLLA) - Coursera, July, 2023
+* [Generative AI learning path](https://www.cloudskillsboost.google/public_profiles/81731c5c-9d38-460e-b9c5-639861783ada) - Google Cloud Skills Boost, July 2023 
 * [Getting started with ChatGPT](https://certs.prometheus.org.ua/downloads/3d0e51c7812849d9b4cbdacaa514b68d/Certificate.pdf) - Prometheus, June, 2023
 * [Practical Deep Learning with PyTorch](https://datarootlabs.com/university/verify/534638d35eca) - DataRoot Labs, May, 2023
 * [Intro to Machine Learning](https://www.kaggle.com/learn/certification/maricinnamon/intro-to-machine-learning) - Kaggle, April, 2022
