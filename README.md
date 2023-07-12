@@ -12,13 +12,6 @@
 <tbody>
 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
     <td><a target="_blank" href="https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">👤 One-page CV</a></td>
     <td><a target="_blank" href="https://www.linkedin.com/in/maryna-antonevych/">👤 LinkedIn</a></td>
     <td><a target="_blank" href="https://www.kaggle.com/maricinnamon">👤 Kaggle</a></td>
@@ -26,8 +19,8 @@
   </tr>
   
   <tr>
-    <td><a target="_blank" href="https://www.tiktok.com/@learn.ai.python?lang=uk-UA">❤️ "Learn AI Python" TikTok (UA) </a></td>
-    <td><a target="_blank" href="https://www.instagram.com/learn.ai.python/">❤️ "Learn AI Python " Instagram (UA) </a></td>
+    <td><a target="_blank" href="https://www.tiktok.com/@learn.ai.python?lang=uk-UA">❤️ "Learn AI Python" TikTok </a></td>
+    <td><a target="_blank" href="https://www.instagram.com/learn.ai.python/">❤️ "Learn AI Python " Instagram </a></td>
     <td><a target="_blank" href="https://github.com/learn-ai-python">❤️ "Learn AI" GitHub</a></td>
     <td><a target="_blank" href=""></a></td>
   </tr>
@@ -37,13 +30,6 @@
     <td><a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57216150467">📄 Scopus</a></td>
     <td><a target="_blank" href="https://orcid.org/0000-0003-3640-7630">📄 OrcID</a></td>
     <td><a target="_blank" href="https://dblp.org/pid/309/3242.html">📄 dblp</a></td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   
 </tbody>
