@@ -1,6 +1,7 @@
 # 📃 MY CERTIFICATES
 ### [⬅️ back to the main page](./)  
 
+* [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/72JPEFZNYMAS) - Coursera, July, 2023
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/6TD4LMNDMR35) - Coursera, July, 2023
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/C8MYQ766JLLA) - Coursera, July, 2023
 * [Generative AI learning path](https://www.cloudskillsboost.google/public_profiles/81731c5c-9d38-460e-b9c5-639861783ada) - Google Cloud Skills Boost, July 2023 
