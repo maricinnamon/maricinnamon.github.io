@@ -1,9 +1,11 @@
 # 📃 MY CERTIFICATES
 ### [⬅️ back to the main page](./)  
 
-* [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/72JPEFZNYMAS) - Coursera, July, 2023
-* [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/6TD4LMNDMR35) - Coursera, July, 2023
-* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/C8MYQ766JLLA) - Coursera, July, 2023
+* [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/QUJFMBGPLE2W) - Coursera, July, 2023
+  * [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/S9YJKYZGN4CF) - Coursera, July, 2023
+  * [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/72JPEFZNYMAS) - Coursera, July, 2023
+  * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/6TD4LMNDMR35) - Coursera, July, 2023
+  * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/C8MYQ766JLLA) - Coursera, July, 2023
 * [Generative AI learning path](https://www.cloudskillsboost.google/public_profiles/81731c5c-9d38-460e-b9c5-639861783ada) - Google Cloud Skills Boost, July 2023 
 * [Getting started with ChatGPT](https://certs.prometheus.org.ua/downloads/3d0e51c7812849d9b4cbdacaa514b68d/Certificate.pdf) - Prometheus, June, 2023
 * [Practical Deep Learning with PyTorch](https://datarootlabs.com/university/verify/534638d35eca) - DataRoot Labs, May, 2023
