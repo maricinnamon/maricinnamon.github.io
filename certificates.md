@@ -1,6 +1,7 @@
 # 📃 MY CERTIFICATES
 ### [⬅️ back to the main page](./)  
 
+* [TensorFlow Developer Certificate](https://www.credential.net/cdb88214-651d-40bc-a366-473bdfdc04d8) - TensorFlow, November, 2023
 * [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/QUJFMBGPLE2W) - Coursera, July, 2023
   * [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/S9YJKYZGN4CF) - Coursera, July, 2023
   * [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/72JPEFZNYMAS) - Coursera, July, 2023
