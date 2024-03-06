@@ -13,7 +13,7 @@
 <a target="_blank" href="https://www.kaggle.com/maricinnamon">👩‍💻 Kaggle page</a><br/>
 
 <a target="_blank" href="https://github.com/maricinnamon">💻 GitHub page</a><br/>
-<a target="_blank" href="https://github.com/learn-ai-python">💻 GitHub page, project "Learn AI Python "</a><br/>
+<a target="_blank" href="https://github.com/learn-ai-python">💻 GitHub page, project "Learn AI Python"</a><br/>
 
 <a target="_blank" href="https://scholar.google.com/citations?user=1FYbaYwAAAAJ&hl=uk">📝 Google Scholar</a><br/>
 <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57216150467">📝 Scopus</a><br/>
