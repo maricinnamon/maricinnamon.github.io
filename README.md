@@ -22,7 +22,7 @@
 
 # 💻 WORK EXPERIENCE
 - **Data scientist at Kapowai, Kyiv, Ukraine (January 2021 - Present).** Implementing data science technologies to fintech software.
-- **Student internship at World data center for Geoinformatics and Sustainable Development, Kyiv, Ukraine (January 2020 - February 2020).** Worked with ArcGIS software (ArcMap, ArcGIS Desktop, ArcGIS Online). Worked and analyzed geoinformatics data.
+- **Student internship at World Data Center for Geoinformatics and Sustainable Development, Kyiv, Ukraine (January 2020 - February 2020).** Worked with ArcGIS software (ArcMap, ArcGIS Desktop, ArcGIS Online). Worked and analyzed geoinformatics data.
 - **Student internship at Infopulse, Kyiv, Ukraine (January 2019 - February 2019).** Worked with local Moodle learning platform.
 <br/>
 <hr>
@@ -150,7 +150,6 @@
 #### 📍 Skills & Proficiencies
 - **Programming:** Python (OpenCV, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn,  etc). Worked with Tableau, SQL, C++, C#.
 - **PC instruments:** MS Office, Adobe Photoshop;
-- **Social media management:** Instagram, YouTube, Telegram;
 - **Foreign languages:** English: B2, Certificate: English for Professional Purposes, issued by Taras Shevchenko National University of Kyiv (June 2020).
 
 #### 📍 Certificates
@@ -162,7 +161,7 @@
 #### 📍 Social activities
 - Headgirl of our university group (Autumn 2020 - May 2022).
 - Gratitude paper for active participation in the student movement Campus Ukraine (February 2020).
-- An active participant of Campus Ukraine English Clubs, Speak Out Summer English Camps (2016-2020).
+- An active participant in Campus Ukraine English Clubs and Speak Out Summer English Camps (2016-2020).
 
 #### 📍 Scholarships
 - Academic scholarship named after M.S. Grushevsky for the [second semester of the 2020/2021](https://mon.gov.ua/ua/npa/pro-priznachennya-akademichnoyi-stipendiyi-imeni-m-s-grushevskogo-na-ii-semestr-20202021-navchalnogo-roku) academic year.
