@@ -8,35 +8,17 @@
 <br/>
 
 # 🔗 MY LINKS
-<table rules="all" style="text-align:center">
-<tbody>
+<a target="_blank" href="https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">👩‍💻 Brief CV</a><br/>
+<a target="_blank" href="https://www.linkedin.com/in/maryna-antonevych/">👩‍💻 LinkedIn page</a><br/>
+<a target="_blank" href="https://www.kaggle.com/maricinnamon">👩‍💻 Kaggle page</a><br/>
 
-  <tr>
-    <td><a target="_blank" href="https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">💻 One-page CV</a></td>
-    <td><a target="_blank" href="https://www.linkedin.com/in/maryna-antonevych/">💻 LinkedIn</a></td>
-    <td><a target="_blank" href="https://www.kaggle.com/maricinnamon">💻 Kaggle</a></td>
-    <td><a target="_blank" href="https://github.com/maricinnamon">💻 GitHub</a></td>
-  </tr>
-  
-  <tr>
-    <td><a target="_blank" href="https://www.tiktok.com/@learn.ai.python?lang=uk-UA">🎥 TikTok "Learn AI Python"</a></td>
-    <td><a target="_blank" href="https://www.instagram.com/learn.ai.python/">🎥 Instagram "Learn AI Python"</a></td>
-    <td><a target="_blank" href="https://github.com/learn-ai-python">🎥 GitHub "Learn AI"</a></td>
-    <td><a target="_blank" href=""></a></td>
-  </tr>
-  
-  <tr>
-    <td><a target="_blank" href="https://scholar.google.com/citations?user=1FYbaYwAAAAJ&hl=uk">📝 Google Scholar</a></td>
-    <td><a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57216150467">📝 Scopus</a></td>
-    <td><a target="_blank" href="https://orcid.org/0000-0003-3640-7630">📝 OrcID</a></td>
-    <td><a target="_blank" href="https://dblp.org/pid/309/3242.html">📝 dblp</a></td>
-  </tr>
-  
-</tbody>
-</table>
-<br/>
-<hr>
-<br/>
+<a target="_blank" href="https://github.com/maricinnamon">💻 GitHub page</a><br/>
+<a target="_blank" href="https://github.com/learn-ai-python">💻 GitHub page, project "Learn AI Python "</a><br/>
+
+<a target="_blank" href="https://scholar.google.com/citations?user=1FYbaYwAAAAJ&hl=uk">📝 Google Scholar</a><br/>
+<a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57216150467">📝 Scopus</a><br/>
+<a target="_blank" href="https://orcid.org/0000-0003-3640-7630">📝 OrcID</a><br/>
+<a target="_blank" href="https://dblp.org/pid/309/3242.html">📝 dblp</a><br/>
 
 # 💻 WORK EXPERIENCE
 - **Data scientist at Kapowai, Kyiv, Ukraine (January 2021 - Present).** Implementing data science technologies to fintech software.
