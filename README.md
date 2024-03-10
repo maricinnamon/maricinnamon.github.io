@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Maryna Antonevych
-👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science | 🎖 Kaggle tier: Notebooks Expert
+👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science
 <br/>
 
 📩 e-mail: marina.antonevich@gmail.com <br/>
