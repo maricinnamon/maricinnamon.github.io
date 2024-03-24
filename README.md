@@ -19,6 +19,9 @@
 <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57216150467">📝 Scopus</a><br/>
 <a target="_blank" href="https://orcid.org/0000-0003-3640-7630">📝 OrcID</a><br/>
 <a target="_blank" href="https://dblp.org/pid/309/3242.html">📝 dblp</a><br/>
+<br/>
+<hr>
+<br/>
 
 # 💻 WORK EXPERIENCE
 - **Data scientist at Kapowai, Kyiv, Ukraine (January 2021 - Present).** Implementing artificial intelligence technologies to fintech software using Python.
